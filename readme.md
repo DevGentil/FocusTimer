@@ -14,7 +14,7 @@ Este é um temporizador estilo Pomodoro desenvolvido para auxiliar na gestão do
 - **CSS3**: Folhas de estilo para estilização e design da aplicação.
 - **JavaScript (ES6+)**: Programação para interatividade e funcionalidades dinâmicas.
 
-## Projeto
+## Projeto finalizado
 
 https://devgentil.github.io/FocusTimer/
 
