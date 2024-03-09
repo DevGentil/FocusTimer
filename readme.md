@@ -16,7 +16,7 @@ Este é um temporizador estilo Pomodoro desenvolvido para auxiliar na gestão do
 
 ## Projeto
 
-- [Acesse o FocusTimer finalizado](https://devgentilio.github.io/FocusTimer)
+- [Acesse o FocusTimer finalizado](https://devgentilio.github.io/FocusTimer/)
 
 ## Licença
 
